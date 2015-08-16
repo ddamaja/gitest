@@ -1,0 +1,59 @@
+.nav{
+	font-size: 22px;
+	margin-left: 75px;
+	font-family: Liberation Sans Narrow;
+	/*font-weight: 800;*/
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+	background-color: #101010;
+	color:#07c1ff;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{
+	background-color: #101010;
+	color: #07c1ff;
+}
+
+
+#main-slider .prev, #main-slider .next{
+	background-color: #07e866;
+}
+
+#main-slider .carousel .btn-slide{
+	background-color: #07e866;
+	font-size: 30px;
+}
+
+ul.social-share li a{
+	background-color: #0583f2;
+}
+
+
+body{
+	background-color: #080808;
+}
+h2{
+	color: #fff;
+	font-size: 32px;
+}
+h1{
+	font-size: 44px;
+}
+
+.tab-wrap{
+	border: none;
+}
+
+section{
+	border-bottom: 5px solid #07c1ff;	
+}
+
+#header{
+		border-bottom: 5px solid #c52d2f;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+	background-color: none;
+}
+
